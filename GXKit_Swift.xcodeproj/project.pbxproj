@@ -551,10 +551,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = LEDWAAR5TZ;
+				DEVELOPMENT_TEAM = KF8YR3H2H3;
 				INFOPLIST_FILE = GXKit_Swift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.emulian.GXKit-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = com.emulian.GXKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "GXKit_Swift/GXKit_Swift-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
@@ -567,10 +567,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = LEDWAAR5TZ;
+				DEVELOPMENT_TEAM = KF8YR3H2H3;
 				INFOPLIST_FILE = GXKit_Swift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.emulian.GXKit-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = com.emulian.GXKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "GXKit_Swift/GXKit_Swift-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;

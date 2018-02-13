@@ -55,7 +55,7 @@ class GXCollectionViewControlller: GXViewController,UICollectionViewDelegate,UIC
 
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "UICollectionViewCell", for: indexPath)
-        cell.backgroundColor = UIColor.randomColor()
+        cell.backgroundColor = UIColor.random
         return cell
     }
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
